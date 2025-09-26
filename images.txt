@@ -8,4 +8,5 @@
 #python:3
 #cadvisor:latest
 #grafana:latest
-docker.io/grafana/grafana:latest
+#docker.io/grafana/grafana:latest
+docker.io/jenkins/jenkins:latest-jdk17
