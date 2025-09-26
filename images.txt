@@ -7,4 +7,5 @@
 #node
 #python:3
 #cadvisor:latest
-grafana:latest
+#grafana:latest
+docker.io/grafana/grafana:latest
